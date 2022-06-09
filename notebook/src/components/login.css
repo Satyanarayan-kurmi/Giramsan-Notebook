@@ -1,0 +1,30 @@
+.hello{
+    width: 26vw;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1059px) {
+    .hello{
+        width: 40vw;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 750px) {
+    .hello{
+        width: 46vw;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .hello{
+        width: 60vw;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 480px) {
+    .hello{
+        width: 80vw;
+        margin: 0 auto;
+    }
+}
