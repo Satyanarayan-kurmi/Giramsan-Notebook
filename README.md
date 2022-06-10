@@ -10,3 +10,15 @@
 ![notebook4](https://user-images.githubusercontent.com/95236961/172912365-0a14cc6b-645d-4d5f-8523-6951214ab0f4.png)
 
 
+# Mobile View
+
+![notebook5](https://user-images.githubusercontent.com/95236961/173056280-bb74e2fb-260d-4128-86d3-d14ef620575c.png)
+
+![notebook6](https://user-images.githubusercontent.com/95236961/173056307-36d00e51-e415-47a1-9d4c-8504b326155f.png)
+
+![notebook7](https://user-images.githubusercontent.com/95236961/173056332-1074ea84-a927-401a-b038-dcc9ce0817e3.png)
+
+![notebook8](https://user-images.githubusercontent.com/95236961/173056354-987a05e6-03bd-4db7-aa08-0b069d2bfc46.png)
+
+
+
